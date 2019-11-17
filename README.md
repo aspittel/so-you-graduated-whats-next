@@ -42,7 +42,7 @@ Congrats on finishing, it's a huge accomplishment, and you're going to do awesom
 - [Sarah Drasner](https://sarahdrasnerdesign.com/writing)
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [JavaScript30](https://javascript30.com/)
-- [We Learn Code](https://welearncode.com/)
+- [My Stuff](https://dev.to/aspittel)
 
 ## Performance
 
