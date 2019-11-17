@@ -66,6 +66,7 @@ Congrats on finishing, it's a huge accomplishment, and you're going to do awesom
 ## Computer Science
 
 - [Base.CS](https://medium.com/basecs)
+- [Brandon Skerritt](https://dev.to/brandonskerritt)
 
 ## Accessibility
 
