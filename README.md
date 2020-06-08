@@ -32,6 +32,12 @@ Congrats on finishing, it's a huge accomplishment, and you're going to do awesom
 - [Pandas](https://pandas.pydata.org/)
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html)
 
+# Other achievable things to learn
+
+- [Gatsby](https://www.gatsbyjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+
 # Resources on...
 
 ## Frontend Dev in General
@@ -90,6 +96,8 @@ Congrats on finishing, it's a huge accomplishment, and you're going to do awesom
 - [Design for Non-Designers](https://www.youtube.com/watch?v=lsPrhA_m6ss&t=74s)
 
 
-Also, find programming events in your city if possible -- networking there will be so helpful.
+Go to programming events if possible -- networking there will be so helpful.
+
+I also wrote down [my career advice](https://welearncode.com/career-advice/) for things I wish I knew at the beginning of my programming career.
 
 Keep learning and building cool stuff ❤️ 
