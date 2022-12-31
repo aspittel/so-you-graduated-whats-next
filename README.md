@@ -9,6 +9,7 @@ Congrats on finishing, it's a huge accomplishment, and you're going to do awesom
 - [Pony Foo](https://ponyfoo.com/weekly)
 - [GitHub Explore](https://github.com/explore)
 - [Python Weekly](https://www.pythonweekly.com/)
+- [Code, Content, and Career](https://bphogan.substack.com/)
 
 # Great Podcasts
 
@@ -95,6 +96,11 @@ Congrats on finishing, it's a huge accomplishment, and you're going to do awesom
 - [Refactoring UI](https://medium.com/refactoring-ui)
 - [Design for Non-Designers](https://www.youtube.com/watch?v=lsPrhA_m6ss&t=74s)
 
+## Career Development
+
+- [Letters To A New Developer](https://letterstoanewdeveloper.com/)
+- [The Tech Interview Guide](https://techinterview.guide/)
+- [Tiffany Jachja's Careers Stream](https://www.twitch.tv/tifftiffbytes)
 
 Go to programming events if possible -- networking there will be so helpful.
 
